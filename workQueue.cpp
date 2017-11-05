@@ -3,7 +3,9 @@
  * FALL2017
  * CSS342:      Project#2 Linked List
  * File Name:   wokQueue.cpp
-*************************/
+ * Vim on Cygwin 
+ * Took TOO long :)
+ *************************/
 using namespace std; 
 #include "workQueue.h"
 #include <stdexcept>
